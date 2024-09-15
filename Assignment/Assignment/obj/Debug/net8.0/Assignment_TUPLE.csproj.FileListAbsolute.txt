@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment_TUPLE.exe
+C:\Users\Admin\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment_TUPLE.deps.json
+C:\Users\Admin\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment_TUPLE.runtimeconfig.json
+C:\Users\Admin\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment_TUPLE.dll
+C:\Users\Admin\source\repos\Assignment\Assignment\bin\Debug\net8.0\Assignment_TUPLE.pdb
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.dll
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\refint\Assignment_TUPLE.dll
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.pdb
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\Assignment_TUPLE.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Assignment\Assignment\obj\Debug\net8.0\ref\Assignment_TUPLE.dll
